@@ -1,5 +1,5 @@
 import './App.scss'
-import Below from './components/Below/below'
+import Below from './components/Below/Below'
 import Feedback from './components/Feedback/Feedback'
 import Footer from './components/Footer/Footer'
 import HeroSection from './components/HeroSection/HeroSection'
