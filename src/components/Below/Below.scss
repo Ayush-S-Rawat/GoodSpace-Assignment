@@ -1,0 +1,40 @@
+.below-container{
+    width: Fill (1,366px)px;
+    height: Hug (263px)px;
+    padding: 48px 0px 48px 0px;
+    gap: 10px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+
+    background: #E3F0F9;
+
+    .below-inner{
+        width: Hug (1,366px)px;
+        height: Hug (167px)px;
+        gap: 36px;
+        opacity: 0px;
+
+        .heading{
+            width: Fixed (1,366px)px;
+            height: Hug (51px)px;
+            padding: 0px 120px 0px 120px;
+            gap: 50px;
+            opacity: 0px;
+
+            .line {
+                font-family: Extatica;
+                font-size: 40px;
+                font-weight: 600;
+                line-height: 51.2px;
+                text-align: left;
+
+                background: linear-gradient(90.16deg, #2D56EC 0.21%, #1AACEA 100.08%);
+                -webkit-background-clip: text;
+                background-clip: text;
+                color: transparent;
+              }
+              
+        }
+    }
+}
